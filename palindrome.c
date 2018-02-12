@@ -4,7 +4,7 @@ void main()
 {
     int n, reversedInteger = 0, remainder, originalInteger;
     clrscr();
-    printf("Enter an integer: ");
+    printf("Enter an integer ");
     scanf("%d", &n);
     originalInteger = n;
     while( n!=0 )
